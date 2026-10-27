@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T19:25:12.491826+00:00",
+  "updated_at": "2026-10-27T19:59:51.939229+00:00",
   "matches": [
     {
       "id": 555057,
@@ -46,6 +46,17 @@
       "away_goals": 0
     },
     {
+      "id": 558858,
+      "competition": "DED",
+      "league": "Eredivisie",
+      "home": "PSV",
+      "away": "Feyenoord Rotterdam",
+      "kickoff": "2026-10-25T13:30:00Z",
+      "status": "FINISHED",
+      "home_goals": 1,
+      "away_goals": 1
+    },
+    {
       "id": 558857,
       "competition": "DED",
       "league": "Eredivisie",
@@ -57,15 +68,37 @@
       "away_goals": 2
     },
     {
-      "id": 558858,
-      "competition": "DED",
-      "league": "Eredivisie",
-      "home": "PSV",
-      "away": "Feyenoord Rotterdam",
-      "kickoff": "2026-10-25T13:30:00Z",
+      "id": 558562,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Atalanta BC",
+      "away": "Frosinone Calcio",
+      "kickoff": "2026-10-25T14:00:00Z",
       "status": "FINISHED",
-      "home_goals": 1,
-      "away_goals": 1
+      "home_goals": 4,
+      "away_goals": 4
+    },
+    {
+      "id": 560612,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Liverpool FC",
+      "away": "Brighton & Hove Albion FC",
+      "kickoff": "2026-10-25T14:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 2,
+      "away_goals": 0
+    },
+    {
+      "id": 560615,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Manchester United FC",
+      "away": "AFC Bournemouth",
+      "kickoff": "2026-10-25T14:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 0,
+      "away_goals": 3
     },
     {
       "id": 560619,
@@ -112,39 +145,6 @@
       "away_goals": 2
     },
     {
-      "id": 560615,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Manchester United FC",
-      "away": "AFC Bournemouth",
-      "kickoff": "2026-10-25T14:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 0,
-      "away_goals": 3
-    },
-    {
-      "id": 558562,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "Atalanta BC",
-      "away": "Frosinone Calcio",
-      "kickoff": "2026-10-25T14:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 4,
-      "away_goals": 4
-    },
-    {
-      "id": 560612,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Liverpool FC",
-      "away": "Brighton & Hove Albion FC",
-      "kickoff": "2026-10-25T14:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 2,
-      "away_goals": 0
-    },
-    {
       "id": 565835,
       "competition": "BL1",
       "league": "Bundesliga",
@@ -189,28 +189,6 @@
       "away_goals": 2
     },
     {
-      "id": 559656,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "AJ Auxerre",
-      "away": "Le Mans FC",
-      "kickoff": "2026-10-25T16:15:00Z",
-      "status": "FINISHED",
-      "home_goals": 1,
-      "away_goals": 1
-    },
-    {
-      "id": 559653,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "Angers SCO",
-      "away": "FC Lorient",
-      "kickoff": "2026-10-25T16:15:00Z",
-      "status": "FINISHED",
-      "home_goals": 0,
-      "away_goals": 0
-    },
-    {
       "id": 559649,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -238,6 +216,28 @@
       "league": "Ligue 1",
       "home": "Toulouse FC",
       "away": "ES Troyes AC",
+      "kickoff": "2026-10-25T16:15:00Z",
+      "status": "FINISHED",
+      "home_goals": 0,
+      "away_goals": 0
+    },
+    {
+      "id": 559656,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "AJ Auxerre",
+      "away": "Le Mans FC",
+      "kickoff": "2026-10-25T16:15:00Z",
+      "status": "FINISHED",
+      "home_goals": 1,
+      "away_goals": 1
+    },
+    {
+      "id": 559653,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Angers SCO",
+      "away": "FC Lorient",
       "kickoff": "2026-10-25T16:15:00Z",
       "status": "FINISHED",
       "home_goals": 0,
@@ -288,17 +288,6 @@
       "away_goals": 1
     },
     {
-      "id": 567334,
-      "competition": "PPL",
-      "league": "Primeira Liga",
-      "home": "CD Nacional",
-      "away": "Sporting Clube de Braga",
-      "kickoff": "2026-10-25T18:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 1,
-      "away_goals": 0
-    },
-    {
       "id": 567330,
       "competition": "PPL",
       "league": "Primeira Liga",
@@ -308,6 +297,17 @@
       "status": "FINISHED",
       "home_goals": 0,
       "away_goals": 4
+    },
+    {
+      "id": 567334,
+      "competition": "PPL",
+      "league": "Primeira Liga",
+      "home": "CD Nacional",
+      "away": "Sporting Clube de Braga",
+      "kickoff": "2026-10-25T18:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 1,
+      "away_goals": 0
     },
     {
       "id": 558855,
@@ -415,7 +415,7 @@
       "home": "US Sassuolo Calcio",
       "away": "SS Lazio",
       "kickoff": "2026-10-27T17:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home_goals": 2,
       "away_goals": 6
     },
@@ -426,9 +426,9 @@
       "home": "AS Roma",
       "away": "Cagliari Calcio",
       "kickoff": "2026-10-27T19:45:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "IN_PLAY",
+      "home_goals": 0,
+      "away_goals": 0
     },
     {
       "id": 558557,
@@ -437,16 +437,16 @@
       "home": "Torino FC",
       "away": "Como 1907",
       "kickoff": "2026-10-27T19:45:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "IN_PLAY",
+      "home_goals": 0,
+      "away_goals": 0
     },
     {
-      "id": 558549,
+      "id": 558550,
       "competition": "SA",
       "league": "Serie A",
-      "home": "AC Milan",
-      "away": "Bologna FC 1909",
+      "home": "Venezia FC",
+      "away": "FC Internazionale Milano",
       "kickoff": "2026-10-28T17:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -464,23 +464,12 @@
       "away_goals": null
     },
     {
-      "id": 558550,
+      "id": 558549,
       "competition": "SA",
       "league": "Serie A",
-      "home": "Venezia FC",
-      "away": "FC Internazionale Milano",
+      "home": "AC Milan",
+      "away": "Bologna FC 1909",
       "kickoff": "2026-10-28T17:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 558554,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "AC Monza",
-      "away": "SSC Napoli",
-      "kickoff": "2026-10-28T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -497,12 +486,12 @@
       "away_goals": null
     },
     {
-      "id": 555065,
-      "competition": "BSA",
-      "league": "Campeonato Brasileiro Série A",
-      "home": "Fluminense FC",
-      "away": "SC Internacional",
-      "kickoff": "2026-10-28T22:30:00Z",
+      "id": 558554,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "AC Monza",
+      "away": "SSC Napoli",
+      "kickoff": "2026-10-28T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -524,6 +513,17 @@
       "league": "Campeonato Brasileiro Série A",
       "home": "Santos FC",
       "away": "SE Palmeiras",
+      "kickoff": "2026-10-28T22:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 555065,
+      "competition": "BSA",
+      "league": "Campeonato Brasileiro Série A",
+      "home": "Fluminense FC",
+      "away": "SC Internacional",
       "kickoff": "2026-10-28T22:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -607,22 +607,22 @@
       "away_goals": null
     },
     {
-      "id": 559644,
+      "id": 559646,
       "competition": "FL1",
       "league": "Ligue 1",
-      "home": "Le Havre AC",
-      "away": "Paris Saint-Germain FC",
+      "home": "OGC Nice",
+      "away": "Stade Rennais FC 1901",
       "kickoff": "2026-10-30T18:00:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 559646,
+      "id": 559644,
       "competition": "FL1",
       "league": "Ligue 1",
-      "home": "OGC Nice",
-      "away": "Stade Rennais FC 1901",
+      "home": "Le Havre AC",
+      "away": "Paris Saint-Germain FC",
       "kickoff": "2026-10-30T18:00:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -695,11 +695,11 @@
       "away_goals": null
     },
     {
-      "id": 561908,
+      "id": 561915,
       "competition": "ELC",
       "league": "Championship",
-      "home": "Stoke City FC",
-      "away": "Preston North End FC",
+      "home": "Lincoln City FC",
+      "away": "Birmingham City FC",
       "kickoff": "2026-10-31T12:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -728,11 +728,11 @@
       "away_goals": null
     },
     {
-      "id": 561915,
+      "id": 561908,
       "competition": "ELC",
       "league": "Championship",
-      "home": "Lincoln City FC",
-      "away": "Birmingham City FC",
+      "home": "Stoke City FC",
+      "away": "Preston North End FC",
       "kickoff": "2026-10-31T12:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -756,6 +756,28 @@
       "home": "Bologna FC 1909",
       "away": "AC Monza",
       "kickoff": "2026-10-31T14:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 565842,
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "FC Augsburg",
+      "away": "SC Freiburg",
+      "kickoff": "2026-10-31T14:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 565840,
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "FC Schalke 04",
+      "away": "RB Leipzig",
+      "kickoff": "2026-10-31T14:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -789,94 +811,6 @@
       "home": "Borussia Mönchengladbach",
       "away": "SC Paderborn 07",
       "kickoff": "2026-10-31T14:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 565842,
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "FC Augsburg",
-      "away": "SC Freiburg",
-      "kickoff": "2026-10-31T14:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 565840,
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "FC Schalke 04",
-      "away": "RB Leipzig",
-      "kickoff": "2026-10-31T14:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 560624,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "AFC Bournemouth",
-      "away": "Leeds United FC",
-      "kickoff": "2026-10-31T15:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 561914,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Southampton FC",
-      "away": "Queens Park Rangers FC",
-      "kickoff": "2026-10-31T15:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 560630,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Brentford FC",
-      "away": "Nottingham Forest FC",
-      "kickoff": "2026-10-31T15:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 561906,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "West Ham United FC",
-      "away": "West Bromwich Albion FC",
-      "kickoff": "2026-10-31T15:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 561912,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Burnley FC",
-      "away": "Portsmouth FC",
-      "kickoff": "2026-10-31T15:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 561913,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Millwall FC",
-      "away": "Derby County FC",
-      "kickoff": "2026-10-31T15:00:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -959,23 +893,78 @@
       "away_goals": null
     },
     {
+      "id": 561913,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Millwall FC",
+      "away": "Derby County FC",
+      "kickoff": "2026-10-31T15:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 560624,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "AFC Bournemouth",
+      "away": "Leeds United FC",
+      "kickoff": "2026-10-31T15:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 561914,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Southampton FC",
+      "away": "Queens Park Rangers FC",
+      "kickoff": "2026-10-31T15:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 560630,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Brentford FC",
+      "away": "Nottingham Forest FC",
+      "kickoff": "2026-10-31T15:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 561906,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "West Ham United FC",
+      "away": "West Bromwich Albion FC",
+      "kickoff": "2026-10-31T15:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 561912,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Burnley FC",
+      "away": "Portsmouth FC",
+      "kickoff": "2026-10-31T15:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 564735,
       "competition": "PD",
       "league": "Primera Division",
       "home": "Rayo Vallecano de Madrid",
       "away": "RC Celta de Vigo",
       "kickoff": "2026-10-31T15:15:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 567343,
-      "competition": "PPL",
-      "league": "Primeira Liga",
-      "home": "Moreirense FC",
-      "away": "CF Estrela da Amadora",
-      "kickoff": "2026-10-31T15:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -992,23 +981,23 @@
       "away_goals": null
     },
     {
+      "id": 567343,
+      "competition": "PPL",
+      "league": "Primeira Liga",
+      "home": "Moreirense FC",
+      "away": "CF Estrela da Amadora",
+      "kickoff": "2026-10-31T15:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 558542,
       "competition": "SA",
       "league": "Serie A",
       "home": "Udinese Calcio",
       "away": "AS Roma",
       "kickoff": "2026-10-31T17:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 565845,
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "FC Bayern München",
-      "away": "Borussia Dortmund",
-      "kickoff": "2026-10-31T17:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -1036,12 +1025,12 @@
       "away_goals": null
     },
     {
-      "id": 558853,
-      "competition": "DED",
-      "league": "Eredivisie",
-      "home": "PSV",
-      "away": "Willem II Tilburg",
-      "kickoff": "2026-10-31T17:45:00Z",
+      "id": 565845,
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "FC Bayern München",
+      "away": "Borussia Dortmund",
+      "kickoff": "2026-10-31T17:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -1052,6 +1041,17 @@
       "league": "Eredivisie",
       "home": "SC Heerenveen",
       "away": "NEC",
+      "kickoff": "2026-10-31T17:45:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 558853,
+      "competition": "DED",
+      "league": "Eredivisie",
+      "home": "PSV",
+      "away": "Willem II Tilburg",
       "kickoff": "2026-10-31T17:45:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -1091,28 +1091,6 @@
       "away_goals": null
     },
     {
-      "id": 558851,
-      "competition": "DED",
-      "league": "Eredivisie",
-      "home": "AFC Ajax",
-      "away": "AZ",
-      "kickoff": "2026-10-31T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 560628,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Aston Villa FC",
-      "away": "Fulham FC",
-      "kickoff": "2026-10-31T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 558850,
       "competition": "DED",
       "league": "Eredivisie",
@@ -1129,6 +1107,28 @@
       "league": "Primera Division",
       "home": "FC Barcelona",
       "away": "Deportivo Alavés",
+      "kickoff": "2026-10-31T20:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 558851,
+      "competition": "DED",
+      "league": "Eredivisie",
+      "home": "AFC Ajax",
+      "away": "AZ",
+      "kickoff": "2026-10-31T20:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 560628,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Aston Villa FC",
+      "away": "Fulham FC",
       "kickoff": "2026-10-31T20:00:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -1179,22 +1179,22 @@
       "away_goals": null
     },
     {
-      "id": 558847,
+      "id": 558848,
       "competition": "DED",
       "league": "Eredivisie",
-      "home": "SBV Excelsior",
-      "away": "FC Twente '65",
+      "home": "Telstar 1963",
+      "away": "FC Utrecht",
       "kickoff": "2026-11-01T13:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 558848,
+      "id": 558847,
       "competition": "DED",
       "league": "Eredivisie",
-      "home": "Telstar 1963",
-      "away": "FC Utrecht",
+      "home": "SBV Excelsior",
+      "away": "FC Twente '65",
       "kickoff": "2026-11-01T13:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -1344,17 +1344,6 @@
       "away_goals": null
     },
     {
-      "id": 567345,
-      "competition": "PPL",
-      "league": "Primeira Liga",
-      "home": "Académico de Viseu FC",
-      "away": "Rio Ave FC",
-      "kickoff": "2026-11-01T18:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 567340,
       "competition": "PPL",
       "league": "Primeira Liga",
@@ -1366,12 +1355,12 @@
       "away_goals": null
     },
     {
-      "id": 558547,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "Juventus FC",
-      "away": "SSC Napoli",
-      "kickoff": "2026-11-01T19:45:00Z",
+      "id": 567345,
+      "competition": "PPL",
+      "league": "Primeira Liga",
+      "home": "Académico de Viseu FC",
+      "away": "Rio Ave FC",
+      "kickoff": "2026-11-01T18:00:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -1382,6 +1371,17 @@
       "league": "Ligue 1",
       "home": "Olympique de Marseille",
       "away": "Toulouse FC",
+      "kickoff": "2026-11-01T19:45:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 558547,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Juventus FC",
+      "away": "SSC Napoli",
       "kickoff": "2026-11-01T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -1421,22 +1421,22 @@
       "away_goals": null
     },
     {
-      "id": 558545,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "Atalanta BC",
-      "away": "Parma Calcio 1913",
+      "id": 559641,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "FC Lorient",
+      "away": "Stade Brestois 29",
       "kickoff": "2026-11-02T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 559641,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "FC Lorient",
-      "away": "Stade Brestois 29",
+      "id": 558545,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Atalanta BC",
+      "away": "Parma Calcio 1913",
       "kickoff": "2026-11-02T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,

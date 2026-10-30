@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:25:36.611430+00:00",
+  "updated_at": "2026-10-30T01:39:29.240709+00:00",
   "matches": [
     {
       "id": 558550,
@@ -140,7 +140,7 @@
       "home": "CA Mineiro",
       "away": "Cruzeiro EC",
       "kickoff": "2026-10-29T22:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home_goals": 0,
       "away_goals": 1
     },
@@ -151,9 +151,9 @@
       "home": "CR Vasco da Gama",
       "away": "CR Flamengo",
       "kickoff": "2026-10-29T23:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home_goals": 1,
-      "away_goals": 3
+      "away_goals": 4
     },
     {
       "id": 555066,
@@ -162,9 +162,9 @@
       "home": "Grêmio FBPA",
       "away": "CA Paranaense",
       "kickoff": "2026-10-30T00:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "IN_PLAY",
+      "home_goals": 1,
+      "away_goals": 0
     },
     {
       "id": 559644,
@@ -629,22 +629,22 @@
       "away_goals": null
     },
     {
-      "id": 558548,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "AC Milan",
-      "away": "FC Internazionale Milano",
+      "id": 559643,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "ES Troyes AC",
+      "away": "Le Mans FC",
       "kickoff": "2026-10-31T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 559643,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "ES Troyes AC",
-      "away": "Le Mans FC",
+      "id": 558548,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "AC Milan",
+      "away": "FC Internazionale Milano",
       "kickoff": "2026-10-31T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,

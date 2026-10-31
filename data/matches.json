@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T03:30:24.692081+00:00",
+  "updated_at": "2026-10-31T04:22:26.110599+00:00",
   "matches": [
     {
       "id": 555067,
@@ -79,17 +79,6 @@
       "away_goals": 0
     },
     {
-      "id": 559646,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "OGC Nice",
-      "away": "Stade Rennais FC 1901",
-      "kickoff": "2026-10-30T18:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 5,
-      "away_goals": 2
-    },
-    {
       "id": 559644,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -99,6 +88,17 @@
       "status": "FINISHED",
       "home_goals": 1,
       "away_goals": 5
+    },
+    {
+      "id": 559646,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "OGC Nice",
+      "away": "Stade Rennais FC 1901",
+      "kickoff": "2026-10-30T18:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 5,
+      "away_goals": 2
     },
     {
       "id": 565846,
@@ -563,17 +563,6 @@
       "away_goals": null
     },
     {
-      "id": 558851,
-      "competition": "DED",
-      "league": "Eredivisie",
-      "home": "AFC Ajax",
-      "away": "AZ",
-      "kickoff": "2026-10-31T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 560628,
       "competition": "PL",
       "league": "Premier League",
@@ -590,6 +579,17 @@
       "league": "Primera Division",
       "home": "FC Barcelona",
       "away": "Deportivo Alavés",
+      "kickoff": "2026-10-31T20:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 558851,
+      "competition": "DED",
+      "league": "Eredivisie",
+      "home": "AFC Ajax",
+      "away": "AZ",
       "kickoff": "2026-10-31T20:00:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -893,22 +893,22 @@
       "away_goals": null
     },
     {
-      "id": 559641,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "FC Lorient",
-      "away": "Stade Brestois 29",
+      "id": 558545,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Atalanta BC",
+      "away": "Parma Calcio 1913",
       "kickoff": "2026-11-02T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 558545,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "Atalanta BC",
-      "away": "Parma Calcio 1913",
+      "id": 559641,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "FC Lorient",
+      "away": "Stade Brestois 29",
       "kickoff": "2026-11-02T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -1113,17 +1113,6 @@
       "away_goals": null
     },
     {
-      "id": 575382,
-      "competition": "CL",
-      "league": "UEFA Champions League",
-      "home": "Villarreal CF",
-      "away": "Paris Saint-Germain FC",
-      "kickoff": "2026-11-03T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 561923,
       "competition": "ELC",
       "league": "Championship",
@@ -1162,6 +1151,17 @@
       "league": "Championship",
       "home": "Birmingham City FC",
       "away": "Millwall FC",
+      "kickoff": "2026-11-03T20:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 575382,
+      "competition": "CL",
+      "league": "UEFA Champions League",
+      "home": "Villarreal CF",
+      "away": "Paris Saint-Germain FC",
       "kickoff": "2026-11-03T20:00:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -1432,22 +1432,22 @@
       "away_goals": null
     },
     {
-      "id": 560634,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Everton FC",
-      "away": "Coventry City FC",
+      "id": 564740,
+      "competition": "PD",
+      "league": "Primera Division",
+      "home": "Sevilla FC",
+      "away": "Deportivo Alavés",
       "kickoff": "2026-11-06T20:00:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 564740,
-      "competition": "PD",
-      "league": "Primera Division",
-      "home": "Sevilla FC",
-      "away": "Deportivo Alavés",
+      "id": 560634,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Everton FC",
+      "away": "Coventry City FC",
       "kickoff": "2026-11-06T20:00:00Z",
       "status": "TIMED",
       "home_goals": null,

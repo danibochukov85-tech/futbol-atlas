@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T07:33:41.801247+00:00",
+  "updated_at": "2026-10-31T08:10:45.592978+00:00",
   "matches": [
     {
       "id": 555067,
@@ -1014,6 +1014,17 @@
       "away_goals": null
     },
     {
+      "id": 561924,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Watford FC",
+      "away": "Lincoln City FC",
+      "kickoff": "2026-11-03T19:45:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 561920,
       "competition": "ELC",
       "league": "Championship",
@@ -1052,17 +1063,6 @@
       "league": "Championship",
       "home": "Charlton Athletic FC",
       "away": "Bolton Wanderers FC",
-      "kickoff": "2026-11-03T19:45:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 561924,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Watford FC",
-      "away": "Lincoln City FC",
       "kickoff": "2026-11-03T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,

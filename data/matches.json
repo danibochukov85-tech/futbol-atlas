@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T14:30:54.675286+00:00",
+  "updated_at": "2026-11-02T14:59:40.341939+00:00",
   "matches": [
     {
       "id": 561908,
@@ -1443,17 +1443,6 @@
       "away_goals": null
     },
     {
-      "id": 561931,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Charlton Athletic FC",
-      "away": "Sheffield United FC",
-      "kickoff": "2026-11-07T15:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 561937,
       "competition": "ELC",
       "league": "Championship",
@@ -1492,6 +1481,17 @@
       "league": "Championship",
       "home": "Blackburn Rovers FC",
       "away": "West Ham United FC",
+      "kickoff": "2026-11-07T15:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 561931,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Charlton Athletic FC",
+      "away": "Sheffield United FC",
       "kickoff": "2026-11-07T15:00:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -1927,17 +1927,6 @@
       "away_goals": null
     },
     {
-      "id": 559631,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "Le Mans FC",
-      "away": "AS Monaco FC",
-      "kickoff": "2026-11-08T16:15:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 559633,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -1949,12 +1938,12 @@
       "away_goals": null
     },
     {
-      "id": 560639,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Manchester United FC",
-      "away": "Aston Villa FC",
-      "kickoff": "2026-11-08T16:30:00Z",
+      "id": 559631,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Le Mans FC",
+      "away": "AS Monaco FC",
+      "kickoff": "2026-11-08T16:15:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -1965,6 +1954,17 @@
       "league": "Bundesliga",
       "home": "SC Freiburg",
       "away": "1. FC Union Berlin",
+      "kickoff": "2026-11-08T16:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 560639,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Manchester United FC",
+      "away": "Aston Villa FC",
       "kickoff": "2026-11-08T16:30:00Z",
       "status": "TIMED",
       "home_goals": null,

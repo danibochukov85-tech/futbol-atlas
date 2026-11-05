@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T06:04:28.284239+00:00",
+  "updated_at": "2026-11-05T06:52:22.499640+00:00",
   "matches": [
     {
       "id": 575377,
@@ -574,22 +574,22 @@
       "away_goals": null
     },
     {
-      "id": 558532,
+      "id": 558534,
       "competition": "SA",
       "league": "Serie A",
-      "home": "Torino FC",
-      "away": "US Lecce",
+      "home": "Cagliari Calcio",
+      "away": "Frosinone Calcio",
       "kickoff": "2026-11-07T14:00:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 558534,
+      "id": 558532,
       "competition": "SA",
       "league": "Serie A",
-      "home": "Cagliari Calcio",
-      "away": "Frosinone Calcio",
+      "home": "Torino FC",
+      "away": "US Lecce",
       "kickoff": "2026-11-07T14:00:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -805,22 +805,22 @@
       "away_goals": null
     },
     {
-      "id": 565849,
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "VfB Stuttgart",
-      "away": "SV Werder Bremen",
+      "id": 564739,
+      "competition": "PD",
+      "league": "Primera Division",
+      "home": "CA Osasuna",
+      "away": "Athletic Club",
       "kickoff": "2026-11-07T17:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 564739,
-      "competition": "PD",
-      "league": "Primera Division",
-      "home": "CA Osasuna",
-      "away": "Athletic Club",
+      "id": 565849,
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "SV Werder Bremen",
       "kickoff": "2026-11-07T17:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -959,17 +959,6 @@
       "away_goals": null
     },
     {
-      "id": 559636,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "Stade Rennais FC 1901",
-      "away": "Lille OSC",
-      "kickoff": "2026-11-08T14:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 560637,
       "competition": "PL",
       "league": "Premier League",
@@ -986,6 +975,17 @@
       "league": "Premier League",
       "home": "Crystal Palace FC",
       "away": "Liverpool FC",
+      "kickoff": "2026-11-08T14:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 559636,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Stade Rennais FC 1901",
+      "away": "Lille OSC",
       "kickoff": "2026-11-08T14:00:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -1146,22 +1146,22 @@
       "away_goals": null
     },
     {
-      "id": 565854,
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "SC Freiburg",
-      "away": "1. FC Union Berlin",
+      "id": 560639,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Manchester United FC",
+      "away": "Aston Villa FC",
       "kickoff": "2026-11-08T16:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 560639,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Manchester United FC",
-      "away": "Aston Villa FC",
+      "id": 565854,
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "SC Freiburg",
+      "away": "1. FC Union Berlin",
       "kickoff": "2026-11-08T16:30:00Z",
       "status": "TIMED",
       "home_goals": null,

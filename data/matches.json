@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T22:20:13.192008+00:00",
+  "updated_at": "2026-11-06T23:05:47.891229+00:00",
   "matches": [
     {
       "id": 555076,
@@ -206,9 +206,9 @@
       "home": "Cruzeiro EC",
       "away": "EC Bahia",
       "kickoff": "2026-11-06T00:30:00Z",
-      "status": "IN_PLAY",
-      "home_goals": 0,
-      "away_goals": 1
+      "status": "FINISHED",
+      "home_goals": 3,
+      "away_goals": 2
     },
     {
       "id": 558845,
@@ -217,9 +217,9 @@
       "home": "Willem II Tilburg",
       "away": "PEC Zwolle",
       "kickoff": "2026-11-06T19:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "FINISHED",
+      "home_goals": 1,
+      "away_goals": 1
     },
     {
       "id": 565852,
@@ -228,9 +228,9 @@
       "home": "Hamburger SV",
       "away": "Borussia Mönchengladbach",
       "kickoff": "2026-11-06T19:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "FINISHED",
+      "home_goals": 3,
+      "away_goals": 1
     },
     {
       "id": 558537,
@@ -239,9 +239,9 @@
       "home": "Venezia FC",
       "away": "Udinese Calcio",
       "kickoff": "2026-11-06T19:45:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "FINISHED",
+      "home_goals": 2,
+      "away_goals": 1
     },
     {
       "id": 559638,
@@ -250,9 +250,9 @@
       "home": "Toulouse FC",
       "away": "RC Strasbourg Alsace",
       "kickoff": "2026-11-06T19:45:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "FINISHED",
+      "home_goals": 3,
+      "away_goals": 1
     },
     {
       "id": 560634,
@@ -261,9 +261,9 @@
       "home": "Everton FC",
       "away": "Coventry City FC",
       "kickoff": "2026-11-06T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "FINISHED",
+      "home_goals": 3,
+      "away_goals": 1
     },
     {
       "id": 561932,
@@ -272,9 +272,9 @@
       "home": "Derby County FC",
       "away": "Bolton Wanderers FC",
       "kickoff": "2026-11-06T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "FINISHED",
+      "home_goals": 3,
+      "away_goals": 1
     },
     {
       "id": 564740,
@@ -283,9 +283,9 @@
       "home": "Sevilla FC",
       "away": "Deportivo Alavés",
       "kickoff": "2026-11-06T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "FINISHED",
+      "home_goals": 0,
+      "away_goals": 0
     },
     {
       "id": 567353,
@@ -294,9 +294,9 @@
       "home": "FC Famalicão",
       "away": "FC Arouca",
       "kickoff": "2026-11-06T20:45:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "FINISHED",
+      "home_goals": 1,
+      "away_goals": 0
     },
     {
       "id": 555079,

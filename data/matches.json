@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T07:41:11.714891+00:00",
+  "updated_at": "2026-11-08T08:17:48.685780+00:00",
   "matches": [
     {
       "id": 555074,
@@ -112,17 +112,6 @@
       "away_goals": 3
     },
     {
-      "id": 561939,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Bristol City FC",
-      "away": "Norwich City FC",
-      "kickoff": "2026-11-07T12:30:00Z",
-      "status": "FINISHED",
-      "home_goals": 0,
-      "away_goals": 5
-    },
-    {
       "id": 561933,
       "competition": "ELC",
       "league": "Championship",
@@ -132,6 +121,17 @@
       "status": "FINISHED",
       "home_goals": 1,
       "away_goals": 1
+    },
+    {
+      "id": 561939,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Bristol City FC",
+      "away": "Norwich City FC",
+      "kickoff": "2026-11-07T12:30:00Z",
+      "status": "FINISHED",
+      "home_goals": 0,
+      "away_goals": 5
     },
     {
       "id": 561938,
@@ -596,6 +596,17 @@
       "away_goals": null
     },
     {
+      "id": 560636,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Sunderland AFC",
+      "away": "Chelsea FC",
+      "kickoff": "2026-11-08T14:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 560638,
       "competition": "PL",
       "league": "Premier League",
@@ -612,17 +623,6 @@
       "league": "Ligue 1",
       "home": "Stade Rennais FC 1901",
       "away": "Lille OSC",
-      "kickoff": "2026-11-08T14:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 560636,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Sunderland AFC",
-      "away": "Chelsea FC",
       "kickoff": "2026-11-08T14:00:00Z",
       "status": "TIMED",
       "home_goals": null,

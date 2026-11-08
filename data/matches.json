@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T00:28:36.530334+00:00",
+  "updated_at": "2026-11-08T01:45:05.102342+00:00",
   "matches": [
     {
       "id": 555074,
@@ -233,6 +233,17 @@
       "away_goals": 2
     },
     {
+      "id": 561940,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Birmingham City FC",
+      "away": "Swansea City AFC",
+      "kickoff": "2026-11-07T15:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 2,
+      "away_goals": 1
+    },
+    {
       "id": 561936,
       "competition": "ELC",
       "league": "Championship",
@@ -277,11 +288,11 @@
       "away_goals": 4
     },
     {
-      "id": 561940,
+      "id": 561935,
       "competition": "ELC",
       "league": "Championship",
-      "home": "Birmingham City FC",
-      "away": "Swansea City AFC",
+      "home": "Blackburn Rovers FC",
+      "away": "West Ham United FC",
       "kickoff": "2026-11-07T15:00:00Z",
       "status": "FINISHED",
       "home_goals": 2,
@@ -329,17 +340,6 @@
       "kickoff": "2026-11-07T15:00:00Z",
       "status": "FINISHED",
       "home_goals": 1,
-      "away_goals": 1
-    },
-    {
-      "id": 561935,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Blackburn Rovers FC",
-      "away": "West Ham United FC",
-      "kickoff": "2026-11-07T15:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 2,
       "away_goals": 1
     },
     {
@@ -552,6 +552,17 @@
       "away_goals": null
     },
     {
+      "id": 560638,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Brighton & Hove Albion FC",
+      "away": "Brentford FC",
+      "kickoff": "2026-11-08T14:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 559636,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -568,17 +579,6 @@
       "league": "Premier League",
       "home": "Sunderland AFC",
       "away": "Chelsea FC",
-      "kickoff": "2026-11-08T14:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 560638,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Brighton & Hove Albion FC",
-      "away": "Brentford FC",
       "kickoff": "2026-11-08T14:00:00Z",
       "status": "TIMED",
       "home_goals": null,

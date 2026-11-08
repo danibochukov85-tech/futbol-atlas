@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T05:16:09.023960+00:00",
+  "updated_at": "2026-11-08T05:53:04.398179+00:00",
   "matches": [
     {
       "id": 555074,
@@ -134,17 +134,6 @@
       "away_goals": 0
     },
     {
-      "id": 561939,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Bristol City FC",
-      "away": "Norwich City FC",
-      "kickoff": "2026-11-07T12:30:00Z",
-      "status": "FINISHED",
-      "home_goals": 0,
-      "away_goals": 5
-    },
-    {
       "id": 561933,
       "competition": "ELC",
       "league": "Championship",
@@ -154,6 +143,17 @@
       "status": "FINISHED",
       "home_goals": 1,
       "away_goals": 1
+    },
+    {
+      "id": 561939,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Bristol City FC",
+      "away": "Norwich City FC",
+      "kickoff": "2026-11-07T12:30:00Z",
+      "status": "FINISHED",
+      "home_goals": 0,
+      "away_goals": 5
     },
     {
       "id": 564744,
@@ -585,17 +585,6 @@
       "away_goals": null
     },
     {
-      "id": 558538,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "AC Monza",
-      "away": "Atalanta BC",
-      "kickoff": "2026-11-08T14:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 560635,
       "competition": "PL",
       "league": "Premier League",
@@ -623,6 +612,17 @@
       "league": "Premier League",
       "home": "Ipswich Town FC",
       "away": "AFC Bournemouth",
+      "kickoff": "2026-11-08T14:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 558538,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "AC Monza",
+      "away": "Atalanta BC",
       "kickoff": "2026-11-08T14:00:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -827,22 +827,22 @@
       "away_goals": null
     },
     {
-      "id": 559630,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "Racing Club de Lens",
-      "away": "Olympique de Marseille",
+      "id": 558529,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "ACF Fiorentina",
+      "away": "Juventus FC",
       "kickoff": "2026-11-08T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 558529,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "ACF Fiorentina",
-      "away": "Juventus FC",
+      "id": 559630,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Racing Club de Lens",
+      "away": "Olympique de Marseille",
       "kickoff": "2026-11-08T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,

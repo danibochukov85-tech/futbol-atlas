@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T03:38:54.091374+00:00",
+  "updated_at": "2026-11-08T04:31:53.075077+00:00",
   "matches": [
     {
       "id": 555074,
@@ -35,17 +35,6 @@
       "away_goals": 1
     },
     {
-      "id": 558537,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "Venezia FC",
-      "away": "Udinese Calcio",
-      "kickoff": "2026-11-06T19:45:00Z",
-      "status": "FINISHED",
-      "home_goals": 2,
-      "away_goals": 1
-    },
-    {
       "id": 559638,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -54,6 +43,17 @@
       "kickoff": "2026-11-06T19:45:00Z",
       "status": "FINISHED",
       "home_goals": 3,
+      "away_goals": 1
+    },
+    {
+      "id": 558537,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Venezia FC",
+      "away": "Udinese Calcio",
+      "kickoff": "2026-11-06T19:45:00Z",
+      "status": "FINISHED",
+      "home_goals": 2,
       "away_goals": 1
     },
     {
@@ -112,17 +112,6 @@
       "away_goals": 3
     },
     {
-      "id": 560632,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Leeds United FC",
-      "away": "Tottenham Hotspur FC",
-      "kickoff": "2026-11-07T12:30:00Z",
-      "status": "FINISHED",
-      "home_goals": 1,
-      "away_goals": 0
-    },
-    {
       "id": 561938,
       "competition": "ELC",
       "league": "Championship",
@@ -134,15 +123,15 @@
       "away_goals": 2
     },
     {
-      "id": 561939,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Bristol City FC",
-      "away": "Norwich City FC",
+      "id": 560632,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Leeds United FC",
+      "away": "Tottenham Hotspur FC",
       "kickoff": "2026-11-07T12:30:00Z",
       "status": "FINISHED",
-      "home_goals": 0,
-      "away_goals": 5
+      "home_goals": 1,
+      "away_goals": 0
     },
     {
       "id": 561933,
@@ -154,6 +143,17 @@
       "status": "FINISHED",
       "home_goals": 1,
       "away_goals": 1
+    },
+    {
+      "id": 561939,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Bristol City FC",
+      "away": "Norwich City FC",
+      "kickoff": "2026-11-07T12:30:00Z",
+      "status": "FINISHED",
+      "home_goals": 0,
+      "away_goals": 5
     },
     {
       "id": 564744,
@@ -387,17 +387,6 @@
       "away_goals": 0
     },
     {
-      "id": 564739,
-      "competition": "PD",
-      "league": "Primera Division",
-      "home": "CA Osasuna",
-      "away": "Athletic Club",
-      "kickoff": "2026-11-07T17:30:00Z",
-      "status": "FINISHED",
-      "home_goals": 1,
-      "away_goals": 1
-    },
-    {
       "id": 560641,
       "competition": "PL",
       "league": "Premier League",
@@ -406,6 +395,17 @@
       "kickoff": "2026-11-07T17:30:00Z",
       "status": "FINISHED",
       "home_goals": 3,
+      "away_goals": 1
+    },
+    {
+      "id": 564739,
+      "competition": "PD",
+      "league": "Primera Division",
+      "home": "CA Osasuna",
+      "away": "Athletic Club",
+      "kickoff": "2026-11-07T17:30:00Z",
+      "status": "FINISHED",
+      "home_goals": 1,
       "away_goals": 1
     },
     {
@@ -552,6 +552,17 @@
       "away_goals": null
     },
     {
+      "id": 560636,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Sunderland AFC",
+      "away": "Chelsea FC",
+      "kickoff": "2026-11-08T14:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 560638,
       "competition": "PL",
       "league": "Premier League",
@@ -568,17 +579,6 @@
       "league": "Ligue 1",
       "home": "Stade Rennais FC 1901",
       "away": "Lille OSC",
-      "kickoff": "2026-11-08T14:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 560636,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Sunderland AFC",
-      "away": "Chelsea FC",
       "kickoff": "2026-11-08T14:00:00Z",
       "status": "TIMED",
       "home_goals": null,

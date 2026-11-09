@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T05:29:49.672110+00:00",
+  "updated_at": "2026-11-09T06:11:17.713624+00:00",
   "matches": [
     {
       "id": 561933,
@@ -57,17 +57,6 @@
       "away_goals": 2
     },
     {
-      "id": 558532,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "Torino FC",
-      "away": "US Lecce",
-      "kickoff": "2026-11-07T14:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 1,
-      "away_goals": 1
-    },
-    {
       "id": 558534,
       "competition": "SA",
       "league": "Serie A",
@@ -77,6 +66,17 @@
       "status": "FINISHED",
       "home_goals": 1,
       "away_goals": 0
+    },
+    {
+      "id": 558532,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Torino FC",
+      "away": "US Lecce",
+      "kickoff": "2026-11-07T14:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 1,
+      "away_goals": 1
     },
     {
       "id": 565853,
@@ -123,6 +123,28 @@
       "away_goals": 2
     },
     {
+      "id": 560640,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Arsenal FC",
+      "away": "Hull City AFC",
+      "kickoff": "2026-11-07T15:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 1,
+      "away_goals": 0
+    },
+    {
+      "id": 561935,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Blackburn Rovers FC",
+      "away": "West Ham United FC",
+      "kickoff": "2026-11-07T15:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 2,
+      "away_goals": 1
+    },
+    {
       "id": 561930,
       "competition": "ELC",
       "league": "Championship",
@@ -156,22 +178,11 @@
       "away_goals": 1
     },
     {
-      "id": 560640,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Arsenal FC",
-      "away": "Hull City AFC",
-      "kickoff": "2026-11-07T15:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 1,
-      "away_goals": 0
-    },
-    {
-      "id": 561935,
+      "id": 561929,
       "competition": "ELC",
       "league": "Championship",
-      "home": "Blackburn Rovers FC",
-      "away": "West Ham United FC",
+      "home": "Queens Park Rangers FC",
+      "away": "Lincoln City FC",
       "kickoff": "2026-11-07T15:00:00Z",
       "status": "FINISHED",
       "home_goals": 2,
@@ -220,17 +231,6 @@
       "status": "FINISHED",
       "home_goals": 0,
       "away_goals": 0
-    },
-    {
-      "id": 561929,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Queens Park Rangers FC",
-      "away": "Lincoln City FC",
-      "kickoff": "2026-11-07T15:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 2,
-      "away_goals": 1
     },
     {
       "id": 564745,
@@ -343,17 +343,6 @@
       "away_goals": 0
     },
     {
-      "id": 558843,
-      "competition": "DED",
-      "league": "Eredivisie",
-      "home": "SBV Excelsior",
-      "away": "Go Ahead Eagles",
-      "kickoff": "2026-11-07T20:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 0,
-      "away_goals": 1
-    },
-    {
       "id": 564741,
       "competition": "PD",
       "league": "Primera Division",
@@ -363,6 +352,17 @@
       "status": "FINISHED",
       "home_goals": 0,
       "away_goals": 3
+    },
+    {
+      "id": 558843,
+      "competition": "DED",
+      "league": "Eredivisie",
+      "home": "SBV Excelsior",
+      "away": "Go Ahead Eagles",
+      "kickoff": "2026-11-07T20:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 0,
+      "away_goals": 1
     },
     {
       "id": 559635,
@@ -475,6 +475,17 @@
       "away_goals": 0
     },
     {
+      "id": 560635,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Crystal Palace FC",
+      "away": "Liverpool FC",
+      "kickoff": "2026-11-08T14:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 1,
+      "away_goals": 3
+    },
+    {
       "id": 558536,
       "competition": "SA",
       "league": "Serie A",
@@ -506,17 +517,6 @@
       "status": "FINISHED",
       "home_goals": 1,
       "away_goals": 2
-    },
-    {
-      "id": 560635,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Crystal Palace FC",
-      "away": "Liverpool FC",
-      "kickoff": "2026-11-08T14:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 1,
-      "away_goals": 3
     },
     {
       "id": 565855,
@@ -585,17 +585,6 @@
       "away_goals": 5
     },
     {
-      "id": 559631,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "Le Mans FC",
-      "away": "AS Monaco FC",
-      "kickoff": "2026-11-08T16:15:00Z",
-      "status": "FINISHED",
-      "home_goals": 1,
-      "away_goals": 1
-    },
-    {
       "id": 559633,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -605,6 +594,17 @@
       "status": "FINISHED",
       "home_goals": 0,
       "away_goals": 2
+    },
+    {
+      "id": 559631,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Le Mans FC",
+      "away": "AS Monaco FC",
+      "kickoff": "2026-11-08T16:15:00Z",
+      "status": "FINISHED",
+      "home_goals": 1,
+      "away_goals": 1
     },
     {
       "id": 559634,

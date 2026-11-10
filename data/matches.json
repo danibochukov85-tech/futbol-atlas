@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T06:45:50.790448+00:00",
+  "updated_at": "2026-11-10T08:29:05.633424+00:00",
   "matches": [
     {
       "id": 567348,
@@ -57,17 +57,6 @@
       "away_goals": 2
     },
     {
-      "id": 560638,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Brighton & Hove Albion FC",
-      "away": "Brentford FC",
-      "kickoff": "2026-11-08T14:00:00Z",
-      "status": "FINISHED",
-      "home_goals": 2,
-      "away_goals": 0
-    },
-    {
       "id": 560636,
       "competition": "PL",
       "league": "Premier League",
@@ -101,15 +90,15 @@
       "away_goals": 2
     },
     {
-      "id": 558538,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "AC Monza",
-      "away": "Atalanta BC",
+      "id": 560638,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Brighton & Hove Albion FC",
+      "away": "Brentford FC",
       "kickoff": "2026-11-08T14:00:00Z",
       "status": "FINISHED",
-      "home_goals": 0,
-      "away_goals": 1
+      "home_goals": 2,
+      "away_goals": 0
     },
     {
       "id": 560635,
@@ -132,6 +121,17 @@
       "status": "FINISHED",
       "home_goals": 1,
       "away_goals": 2
+    },
+    {
+      "id": 558538,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "AC Monza",
+      "away": "Atalanta BC",
+      "kickoff": "2026-11-08T14:00:00Z",
+      "status": "FINISHED",
+      "home_goals": 0,
+      "away_goals": 1
     },
     {
       "id": 565855,
@@ -200,6 +200,17 @@
       "away_goals": 3
     },
     {
+      "id": 559633,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Le Havre AC",
+      "away": "FC Lorient",
+      "kickoff": "2026-11-08T16:15:00Z",
+      "status": "FINISHED",
+      "home_goals": 0,
+      "away_goals": 2
+    },
+    {
       "id": 559631,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -211,11 +222,11 @@
       "away_goals": 1
     },
     {
-      "id": 559633,
+      "id": 559634,
       "competition": "FL1",
       "league": "Ligue 1",
-      "home": "Le Havre AC",
-      "away": "FC Lorient",
+      "home": "Angers SCO",
+      "away": "OGC Nice",
       "kickoff": "2026-11-08T16:15:00Z",
       "status": "FINISHED",
       "home_goals": 0,
@@ -231,17 +242,6 @@
       "status": "FINISHED",
       "home_goals": 2,
       "away_goals": 0
-    },
-    {
-      "id": 559634,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "Angers SCO",
-      "away": "OGC Nice",
-      "kickoff": "2026-11-08T16:15:00Z",
-      "status": "FINISHED",
-      "home_goals": 0,
-      "away_goals": 2
     },
     {
       "id": 565854,
@@ -332,17 +332,6 @@
       "away_goals": 3
     },
     {
-      "id": 558529,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "ACF Fiorentina",
-      "away": "Juventus FC",
-      "kickoff": "2026-11-08T19:45:00Z",
-      "status": "FINISHED",
-      "home_goals": 2,
-      "away_goals": 2
-    },
-    {
       "id": 559630,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -351,6 +340,17 @@
       "kickoff": "2026-11-08T19:45:00Z",
       "status": "FINISHED",
       "home_goals": 1,
+      "away_goals": 2
+    },
+    {
+      "id": 558529,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "ACF Fiorentina",
+      "away": "Juventus FC",
+      "kickoff": "2026-11-08T19:45:00Z",
+      "status": "FINISHED",
+      "home_goals": 2,
       "away_goals": 2
     },
     {

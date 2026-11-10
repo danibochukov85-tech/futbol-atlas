@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:28:55.750082+00:00",
+  "updated_at": "2026-11-10T17:16:20.006886+00:00",
   "matches": [
     {
       "id": 567348,
@@ -222,17 +222,6 @@
       "away_goals": 1
     },
     {
-      "id": 559632,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "Stade Brestois 29",
-      "away": "Olympique Lyonnais",
-      "kickoff": "2026-11-08T16:15:00Z",
-      "status": "FINISHED",
-      "home_goals": 2,
-      "away_goals": 0
-    },
-    {
       "id": 559634,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -242,6 +231,17 @@
       "status": "FINISHED",
       "home_goals": 0,
       "away_goals": 2
+    },
+    {
+      "id": 559632,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Stade Brestois 29",
+      "away": "Olympique Lyonnais",
+      "kickoff": "2026-11-08T16:15:00Z",
+      "status": "FINISHED",
+      "home_goals": 2,
+      "away_goals": 0
     },
     {
       "id": 565854,
@@ -332,17 +332,6 @@
       "away_goals": 3
     },
     {
-      "id": 558529,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "ACF Fiorentina",
-      "away": "Juventus FC",
-      "kickoff": "2026-11-08T19:45:00Z",
-      "status": "FINISHED",
-      "home_goals": 2,
-      "away_goals": 2
-    },
-    {
       "id": 559630,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -351,6 +340,17 @@
       "kickoff": "2026-11-08T19:45:00Z",
       "status": "FINISHED",
       "home_goals": 1,
+      "away_goals": 2
+    },
+    {
+      "id": 558529,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "ACF Fiorentina",
+      "away": "Juventus FC",
+      "kickoff": "2026-11-08T19:45:00Z",
+      "status": "FINISHED",
+      "home_goals": 2,
       "away_goals": 2
     },
     {

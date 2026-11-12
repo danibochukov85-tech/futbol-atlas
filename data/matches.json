@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T09:44:58.585973+00:00",
+  "updated_at": "2026-11-12T10:43:06.659015+00:00",
   "matches": [
     {
       "id": 555085,
@@ -46,22 +46,22 @@
       "away_goals": null
     },
     {
-      "id": 555082,
+      "id": 555083,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "Cruzeiro EC",
-      "away": "SE Palmeiras",
+      "home": "CR Flamengo",
+      "away": "CA Paranaense",
       "kickoff": "2026-11-18T23:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 555083,
+      "id": 555082,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "CR Flamengo",
-      "away": "CA Paranaense",
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras",
       "kickoff": "2026-11-18T23:30:00Z",
       "status": "TIMED",
       "home_goals": null,

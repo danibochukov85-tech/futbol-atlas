@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T23:52:20.068291+00:00",
+  "updated_at": "2026-11-12T00:45:50.336158+00:00",
   "matches": [
     {
       "id": 555085,
@@ -19,6 +19,50 @@
       "home": "Chapecoense AF",
       "away": "CR Vasco da Gama",
       "kickoff": "2026-11-14T23:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 555081,
+      "competition": "BSA",
+      "league": "Campeonato Brasileiro Série A",
+      "home": "Coritiba FBC",
+      "away": "Santos FC",
+      "kickoff": "2026-11-18T22:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 555086,
+      "competition": "BSA",
+      "league": "Campeonato Brasileiro Série A",
+      "home": "Clube do Remo",
+      "away": "Chapecoense AF",
+      "kickoff": "2026-11-18T23:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 555083,
+      "competition": "BSA",
+      "league": "Campeonato Brasileiro Série A",
+      "home": "CR Flamengo",
+      "away": "CA Paranaense",
+      "kickoff": "2026-11-18T23:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 555082,
+      "competition": "BSA",
+      "league": "Campeonato Brasileiro Série A",
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras",
+      "kickoff": "2026-11-18T23:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null

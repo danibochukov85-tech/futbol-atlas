@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T11:59:21.022299+00:00",
+  "updated_at": "2026-11-13T12:46:47.457205+00:00",
   "matches": [
     {
       "id": 555085,
@@ -46,17 +46,6 @@
       "away_goals": null
     },
     {
-      "id": 555082,
-      "competition": "BSA",
-      "league": "Campeonato Brasileiro Série A",
-      "home": "Cruzeiro EC",
-      "away": "SE Palmeiras",
-      "kickoff": "2026-11-18T23:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 555083,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
@@ -68,12 +57,12 @@
       "away_goals": null
     },
     {
-      "id": 555084,
+      "id": 555082,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "Grêmio FBPA",
-      "away": "EC Bahia",
-      "kickoff": "2026-11-19T00:30:00Z",
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras",
+      "kickoff": "2026-11-18T23:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -90,12 +79,12 @@
       "away_goals": null
     },
     {
-      "id": 555089,
+      "id": 555084,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "EC Vitória",
-      "away": "RB Bragantino",
-      "kickoff": "2026-11-19T22:30:00Z",
+      "home": "Grêmio FBPA",
+      "away": "EC Bahia",
+      "kickoff": "2026-11-19T00:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -106,6 +95,17 @@
       "league": "Campeonato Brasileiro Série A",
       "home": "CR Vasco da Gama",
       "away": "SC Internacional",
+      "kickoff": "2026-11-19T22:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 555089,
+      "competition": "BSA",
+      "league": "Campeonato Brasileiro Série A",
+      "home": "EC Vitória",
+      "away": "RB Bragantino",
       "kickoff": "2026-11-19T22:30:00Z",
       "status": "TIMED",
       "home_goals": null,

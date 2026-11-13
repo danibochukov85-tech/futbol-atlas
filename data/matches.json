@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T20:56:36.180146+00:00",
+  "updated_at": "2026-11-13T21:35:55.525446+00:00",
   "matches": [
     {
       "id": 555085,
@@ -46,17 +46,6 @@
       "away_goals": null
     },
     {
-      "id": 555083,
-      "competition": "BSA",
-      "league": "Campeonato Brasileiro Série A",
-      "home": "CR Flamengo",
-      "away": "CA Paranaense",
-      "kickoff": "2026-11-18T23:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 555082,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
@@ -68,12 +57,12 @@
       "away_goals": null
     },
     {
-      "id": 555080,
+      "id": 555083,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "SC Corinthians Paulista",
-      "away": "Botafogo FR",
-      "kickoff": "2026-11-19T00:30:00Z",
+      "home": "CR Flamengo",
+      "away": "CA Paranaense",
+      "kickoff": "2026-11-18T23:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -90,12 +79,12 @@
       "away_goals": null
     },
     {
-      "id": 555088,
+      "id": 555080,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "CR Vasco da Gama",
-      "away": "SC Internacional",
-      "kickoff": "2026-11-19T22:30:00Z",
+      "home": "SC Corinthians Paulista",
+      "away": "Botafogo FR",
+      "kickoff": "2026-11-19T00:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -106,6 +95,17 @@
       "league": "Campeonato Brasileiro Série A",
       "home": "EC Vitória",
       "away": "RB Bragantino",
+      "kickoff": "2026-11-19T22:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 555088,
+      "competition": "BSA",
+      "league": "Campeonato Brasileiro Série A",
+      "home": "CR Vasco da Gama",
+      "away": "SC Internacional",
       "kickoff": "2026-11-19T22:30:00Z",
       "status": "TIMED",
       "home_goals": null,

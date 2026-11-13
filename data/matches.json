@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T02:19:39.536088+00:00",
+  "updated_at": "2026-11-13T02:52:43.518545+00:00",
   "matches": [
     {
       "id": 555085,
@@ -46,22 +46,22 @@
       "away_goals": null
     },
     {
-      "id": 555083,
+      "id": 555082,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "CR Flamengo",
-      "away": "CA Paranaense",
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras",
       "kickoff": "2026-11-18T23:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 555082,
+      "id": 555083,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "Cruzeiro EC",
-      "away": "SE Palmeiras",
+      "home": "CR Flamengo",
+      "away": "CA Paranaense",
       "kickoff": "2026-11-18T23:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -90,22 +90,22 @@
       "away_goals": null
     },
     {
-      "id": 555088,
+      "id": 555089,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "CR Vasco da Gama",
-      "away": "SC Internacional",
+      "home": "EC Vitória",
+      "away": "RB Bragantino",
       "kickoff": "2026-11-19T22:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 555089,
+      "id": 555088,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "EC Vitória",
-      "away": "RB Bragantino",
+      "home": "CR Vasco da Gama",
+      "away": "SC Internacional",
       "kickoff": "2026-11-19T22:30:00Z",
       "status": "TIMED",
       "home_goals": null,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T23:44:45.639253+00:00",
+  "updated_at": "2026-11-14T00:31:51.539933+00:00",
   "matches": [
     {
       "id": 555085,
@@ -90,6 +90,17 @@
       "away_goals": null
     },
     {
+      "id": 555089,
+      "competition": "BSA",
+      "league": "Campeonato Brasileiro Série A",
+      "home": "EC Vitória",
+      "away": "RB Bragantino",
+      "kickoff": "2026-11-19T22:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 555088,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
@@ -101,12 +112,45 @@
       "away_goals": null
     },
     {
-      "id": 555089,
+      "id": 555087,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "EC Vitória",
-      "away": "RB Bragantino",
-      "kickoff": "2026-11-19T22:30:00Z",
+      "home": "São Paulo FC",
+      "away": "Fluminense FC",
+      "kickoff": "2026-11-20T00:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 565859,
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "FC Bayern München",
+      "away": "1. FC Köln",
+      "kickoff": "2026-11-20T19:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 559622,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "ES Troyes AC",
+      "away": "Le Havre AC",
+      "kickoff": "2026-11-20T19:45:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 564748,
+      "competition": "PD",
+      "league": "Primera Division",
+      "home": "Athletic Club",
+      "away": "RCD Espanyol de Barcelona",
+      "kickoff": "2026-11-20T20:00:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null

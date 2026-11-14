@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T08:54:51.712191+00:00",
+  "updated_at": "2026-11-14T09:32:01.526842+00:00",
   "matches": [
     {
       "id": 555085,
@@ -68,22 +68,22 @@
       "away_goals": null
     },
     {
-      "id": 555084,
+      "id": 555080,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "Grêmio FBPA",
-      "away": "EC Bahia",
+      "home": "SC Corinthians Paulista",
+      "away": "Botafogo FR",
       "kickoff": "2026-11-19T00:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 555080,
+      "id": 555084,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "SC Corinthians Paulista",
-      "away": "Botafogo FR",
+      "home": "Grêmio FBPA",
+      "away": "EC Bahia",
       "kickoff": "2026-11-19T00:30:00Z",
       "status": "TIMED",
       "home_goals": null,

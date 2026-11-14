@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T22:59:15.205837+00:00",
+  "updated_at": "2026-11-14T23:40:21.124469+00:00",
   "matches": [
     {
       "id": 555085,
@@ -8,7 +8,7 @@
       "home": "Mirassol FC",
       "away": "CA Mineiro",
       "kickoff": "2026-11-14T21:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home_goals": 0,
       "away_goals": 0
     },
@@ -19,9 +19,9 @@
       "home": "Chapecoense AF",
       "away": "CR Vasco da Gama",
       "kickoff": "2026-11-14T23:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
+      "status": "IN_PLAY",
+      "home_goals": 0,
+      "away_goals": 0
     },
     {
       "id": 555081,

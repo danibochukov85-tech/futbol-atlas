@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T18:26:24.162300+00:00",
+  "updated_at": "2026-11-15T19:25:38.493989+00:00",
   "matches": [
     {
       "id": 555085,
@@ -19,9 +19,9 @@
       "home": "Chapecoense AF",
       "away": "CR Vasco da Gama",
       "kickoff": "2026-11-14T23:30:00Z",
-      "status": "FINISHED",
+      "status": "IN_PLAY",
       "home_goals": 0,
-      "away_goals": 2
+      "away_goals": 1
     },
     {
       "id": 555081,
@@ -266,22 +266,22 @@
       "away_goals": null
     },
     {
-      "id": 565865,
+      "id": 565857,
       "competition": "BL1",
       "league": "Bundesliga",
-      "home": "Eintracht Frankfurt",
-      "away": "TSG 1899 Hoffenheim",
+      "home": "Bayer 04 Leverkusen",
+      "away": "SC Paderborn 07",
       "kickoff": "2026-11-21T14:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 565857,
+      "id": 565865,
       "competition": "BL1",
       "league": "Bundesliga",
-      "home": "Bayer 04 Leverkusen",
-      "away": "SC Paderborn 07",
+      "home": "Eintracht Frankfurt",
+      "away": "TSG 1899 Hoffenheim",
       "kickoff": "2026-11-21T14:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -354,6 +354,17 @@
       "away_goals": null
     },
     {
+      "id": 561946,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Stoke City FC",
+      "away": "Birmingham City FC",
+      "kickoff": "2026-11-21T15:00:00Z",
+      "status": "SCHEDULED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 560644,
       "competition": "PL",
       "league": "Premier League",
@@ -414,17 +425,6 @@
       "league": "Championship",
       "home": "West Ham United FC",
       "away": "Preston North End FC",
-      "kickoff": "2026-11-21T15:00:00Z",
-      "status": "SCHEDULED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 561946,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Stoke City FC",
-      "away": "Birmingham City FC",
       "kickoff": "2026-11-21T15:00:00Z",
       "status": "SCHEDULED",
       "home_goals": null,

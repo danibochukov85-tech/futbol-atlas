@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T17:05:42.058841+00:00",
+  "updated_at": "2026-11-15T17:42:28.579100+00:00",
   "matches": [
     {
       "id": 555085,
@@ -19,9 +19,9 @@
       "home": "Chapecoense AF",
       "away": "CR Vasco da Gama",
       "kickoff": "2026-11-14T23:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home_goals": 0,
-      "away_goals": 1
+      "away_goals": 2
     },
     {
       "id": 555081,
@@ -288,17 +288,6 @@
       "away_goals": null
     },
     {
-      "id": 560648,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Tottenham Hotspur FC",
-      "away": "Ipswich Town FC",
-      "kickoff": "2026-11-21T15:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 560642,
       "competition": "PL",
       "league": "Premier League",
@@ -361,6 +350,17 @@
       "away": "Wrexham AFC",
       "kickoff": "2026-11-21T15:00:00Z",
       "status": "SCHEDULED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 560648,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Tottenham Hotspur FC",
+      "away": "Ipswich Town FC",
+      "kickoff": "2026-11-21T15:00:00Z",
+      "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
@@ -475,17 +475,6 @@
       "away_goals": null
     },
     {
-      "id": 564756,
-      "competition": "PD",
-      "league": "Primera Division",
-      "home": "Sevilla FC",
-      "away": "Real Betis Balompié",
-      "kickoff": "2026-11-21T17:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 565861,
       "competition": "BL1",
       "league": "Bundesliga",
@@ -508,12 +497,12 @@
       "away_goals": null
     },
     {
-      "id": 558831,
-      "competition": "DED",
-      "league": "Eredivisie",
-      "home": "Feyenoord Rotterdam",
-      "away": "SBV Excelsior",
-      "kickoff": "2026-11-21T17:45:00Z",
+      "id": 564756,
+      "competition": "PD",
+      "league": "Primera Division",
+      "home": "Sevilla FC",
+      "away": "Real Betis Balompié",
+      "kickoff": "2026-11-21T17:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
@@ -524,6 +513,17 @@
       "league": "Eredivisie",
       "home": "FC Utrecht",
       "away": "SC Cambuur-Leeuwarden",
+      "kickoff": "2026-11-21T17:45:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 558831,
+      "competition": "DED",
+      "league": "Eredivisie",
+      "home": "Feyenoord Rotterdam",
+      "away": "SBV Excelsior",
       "kickoff": "2026-11-21T17:45:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -563,17 +563,6 @@
       "away_goals": null
     },
     {
-      "id": 559627,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "RC Strasbourg Alsace",
-      "away": "Stade Brestois 29",
-      "kickoff": "2026-11-21T19:45:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 559621,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -590,6 +579,17 @@
       "league": "Ligue 1",
       "home": "Racing Club de Lens",
       "away": "Toulouse FC",
+      "kickoff": "2026-11-21T19:45:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 559627,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "RC Strasbourg Alsace",
+      "away": "Stade Brestois 29",
       "kickoff": "2026-11-21T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,

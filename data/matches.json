@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T10:15:57.380859+00:00",
+  "updated_at": "2026-11-16T10:29:40.356796+00:00",
   "matches": [
     {
       "id": 555085,
@@ -68,22 +68,22 @@
       "away_goals": null
     },
     {
-      "id": 555084,
+      "id": 555080,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "Grêmio FBPA",
-      "away": "EC Bahia",
+      "home": "SC Corinthians Paulista",
+      "away": "Botafogo FR",
       "kickoff": "2026-11-19T00:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 555080,
+      "id": 555084,
       "competition": "BSA",
       "league": "Campeonato Brasileiro Série A",
-      "home": "SC Corinthians Paulista",
-      "away": "Botafogo FR",
+      "home": "Grêmio FBPA",
+      "away": "EC Bahia",
       "kickoff": "2026-11-19T00:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -255,6 +255,17 @@
       "away_goals": null
     },
     {
+      "id": 565860,
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "SV 07 Elversberg",
+      "away": "SC Freiburg",
+      "kickoff": "2026-11-21T14:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 565862,
       "competition": "BL1",
       "league": "Bundesliga",
@@ -277,13 +288,13 @@
       "away_goals": null
     },
     {
-      "id": 565860,
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "SV 07 Elversberg",
-      "away": "SC Freiburg",
-      "kickoff": "2026-11-21T14:30:00Z",
-      "status": "TIMED",
+      "id": 561951,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "West Ham United FC",
+      "away": "Preston North End FC",
+      "kickoff": "2026-11-21T15:00:00Z",
+      "status": "SCHEDULED",
       "home_goals": null,
       "away_goals": null
     },
@@ -354,11 +365,11 @@
       "away_goals": null
     },
     {
-      "id": 561951,
+      "id": 561946,
       "competition": "ELC",
       "league": "Championship",
-      "home": "West Ham United FC",
-      "away": "Preston North End FC",
+      "home": "Stoke City FC",
+      "away": "Birmingham City FC",
       "kickoff": "2026-11-21T15:00:00Z",
       "status": "SCHEDULED",
       "home_goals": null,
@@ -416,17 +427,6 @@
       "away": "Leeds United FC",
       "kickoff": "2026-11-21T15:00:00Z",
       "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 561946,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Stoke City FC",
-      "away": "Birmingham City FC",
-      "kickoff": "2026-11-21T15:00:00Z",
-      "status": "SCHEDULED",
       "home_goals": null,
       "away_goals": null
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:27:45.643448+00:00",
+  "updated_at": "2026-11-17T18:04:30.637366+00:00",
   "matches": [
     {
       "id": 555081,
@@ -574,17 +574,6 @@
       "away_goals": null
     },
     {
-      "id": 558834,
-      "competition": "DED",
-      "league": "Eredivisie",
-      "home": "FC Groningen",
-      "away": "SC Heerenveen",
-      "kickoff": "2026-11-21T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 564754,
       "competition": "PD",
       "league": "Primera Division",
@@ -601,6 +590,17 @@
       "league": "Eredivisie",
       "home": "Telstar 1963",
       "away": "PEC Zwolle",
+      "kickoff": "2026-11-21T20:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 558834,
+      "competition": "DED",
+      "league": "Eredivisie",
+      "home": "FC Groningen",
+      "away": "SC Heerenveen",
       "kickoff": "2026-11-21T20:00:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -695,17 +695,6 @@
       "away_goals": null
     },
     {
-      "id": 559625,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "kickoff": "2026-11-22T14:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 558522,
       "competition": "SA",
       "league": "Serie A",
@@ -722,6 +711,17 @@
       "league": "Serie A",
       "home": "US Sassuolo Calcio",
       "away": "Genoa CFC",
+      "kickoff": "2026-11-22T14:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 559625,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Paris FC",
+      "away": "Angers SCO",
       "kickoff": "2026-11-22T14:00:00Z",
       "status": "TIMED",
       "home_goals": null,

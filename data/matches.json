@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T11:56:06.443664+00:00",
+  "updated_at": "2026-11-17T12:44:33.588419+00:00",
   "matches": [
     {
       "id": 555081,
@@ -134,17 +134,6 @@
       "away_goals": null
     },
     {
-      "id": 560643,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Manchester City FC",
-      "away": "Fulham FC",
-      "kickoff": "2026-11-21T12:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 561948,
       "competition": "ELC",
       "league": "Championship",
@@ -174,6 +163,17 @@
       "away": "Queens Park Rangers FC",
       "kickoff": "2026-11-21T12:30:00Z",
       "status": "SCHEDULED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 560643,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Manchester City FC",
+      "away": "Fulham FC",
+      "kickoff": "2026-11-21T12:30:00Z",
+      "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
@@ -486,22 +486,22 @@
       "away_goals": null
     },
     {
-      "id": 558831,
+      "id": 558835,
       "competition": "DED",
       "league": "Eredivisie",
-      "home": "Feyenoord Rotterdam",
-      "away": "SBV Excelsior",
+      "home": "FC Utrecht",
+      "away": "SC Cambuur-Leeuwarden",
       "kickoff": "2026-11-21T17:45:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 558835,
+      "id": 558831,
       "competition": "DED",
       "league": "Eredivisie",
-      "home": "FC Utrecht",
-      "away": "SC Cambuur-Leeuwarden",
+      "home": "Feyenoord Rotterdam",
+      "away": "SBV Excelsior",
       "kickoff": "2026-11-21T17:45:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -574,17 +574,6 @@
       "away_goals": null
     },
     {
-      "id": 564754,
-      "competition": "PD",
-      "league": "Primera Division",
-      "home": "Real Madrid CF",
-      "away": "RC Celta de Vigo",
-      "kickoff": "2026-11-21T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 558832,
       "competition": "DED",
       "league": "Eredivisie",
@@ -601,6 +590,17 @@
       "league": "Eredivisie",
       "home": "FC Groningen",
       "away": "SC Heerenveen",
+      "kickoff": "2026-11-21T20:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 564754,
+      "competition": "PD",
+      "league": "Primera Division",
+      "home": "Real Madrid CF",
+      "away": "RC Celta de Vigo",
       "kickoff": "2026-11-21T20:00:00Z",
       "status": "TIMED",
       "home_goals": null,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T09:07:07.898062+00:00",
+  "updated_at": "2026-11-17T09:50:01.484861+00:00",
   "matches": [
     {
       "id": 555081,
@@ -266,17 +266,6 @@
       "away_goals": null
     },
     {
-      "id": 561951,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "West Ham United FC",
-      "away": "Preston North End FC",
-      "kickoff": "2026-11-21T15:00:00Z",
-      "status": "SCHEDULED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 560642,
       "competition": "PL",
       "league": "Premier League",
@@ -365,11 +354,11 @@
       "away_goals": null
     },
     {
-      "id": 561946,
+      "id": 561951,
       "competition": "ELC",
       "league": "Championship",
-      "home": "Stoke City FC",
-      "away": "Birmingham City FC",
+      "home": "West Ham United FC",
+      "away": "Preston North End FC",
       "kickoff": "2026-11-21T15:00:00Z",
       "status": "SCHEDULED",
       "home_goals": null,
@@ -403,6 +392,17 @@
       "league": "Championship",
       "home": "Wolverhampton Wanderers FC",
       "away": "Charlton Athletic FC",
+      "kickoff": "2026-11-21T15:00:00Z",
+      "status": "SCHEDULED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 561946,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Stoke City FC",
+      "away": "Birmingham City FC",
       "kickoff": "2026-11-21T15:00:00Z",
       "status": "SCHEDULED",
       "home_goals": null,

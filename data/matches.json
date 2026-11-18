@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T02:27:59.596004+00:00",
+  "updated_at": "2026-11-18T02:56:40.272664+00:00",
   "matches": [
     {
       "id": 555081,
@@ -244,22 +244,22 @@
       "away_goals": null
     },
     {
-      "id": 565857,
+      "id": 565865,
       "competition": "BL1",
       "league": "Bundesliga",
-      "home": "Bayer 04 Leverkusen",
-      "away": "SC Paderborn 07",
+      "home": "Eintracht Frankfurt",
+      "away": "TSG 1899 Hoffenheim",
       "kickoff": "2026-11-21T14:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 565865,
+      "id": 565857,
       "competition": "BL1",
       "league": "Bundesliga",
-      "home": "Eintracht Frankfurt",
-      "away": "TSG 1899 Hoffenheim",
+      "home": "Bayer 04 Leverkusen",
+      "away": "SC Paderborn 07",
       "kickoff": "2026-11-21T14:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -981,17 +981,6 @@
       "away_goals": null
     },
     {
-      "id": 561960,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Norwich City FC",
-      "away": "Queens Park Rangers FC",
-      "kickoff": "2026-11-24T19:45:00Z",
-      "status": "SCHEDULED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 561956,
       "competition": "ELC",
       "league": "Championship",
@@ -1019,6 +1008,17 @@
       "league": "Championship",
       "home": "Middlesbrough FC",
       "away": "Swansea City AFC",
+      "kickoff": "2026-11-24T19:45:00Z",
+      "status": "SCHEDULED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 561960,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Norwich City FC",
+      "away": "Queens Park Rangers FC",
       "kickoff": "2026-11-24T19:45:00Z",
       "status": "SCHEDULED",
       "home_goals": null,

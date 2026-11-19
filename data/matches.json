@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:56:52.196657+00:00",
+  "updated_at": "2026-11-19T03:44:13.959402+00:00",
   "matches": [
     {
       "id": 555081,
@@ -332,17 +332,6 @@
       "away_goals": null
     },
     {
-      "id": 561942,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Swansea City AFC",
-      "away": "West Bromwich Albion FC",
-      "kickoff": "2026-11-21T15:00:00Z",
-      "status": "SCHEDULED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 560644,
       "competition": "PL",
       "league": "Premier League",
@@ -405,6 +394,17 @@
       "away": "Ipswich Town FC",
       "kickoff": "2026-11-21T15:00:00Z",
       "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 561942,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Swansea City AFC",
+      "away": "West Bromwich Albion FC",
+      "kickoff": "2026-11-21T15:00:00Z",
+      "status": "SCHEDULED",
       "home_goals": null,
       "away_goals": null
     },
@@ -673,22 +673,22 @@
       "away_goals": null
     },
     {
-      "id": 558836,
+      "id": 558830,
       "competition": "DED",
       "league": "Eredivisie",
-      "home": "AFC Ajax",
-      "away": "ADO Den Haag",
+      "home": "Sparta Rotterdam",
+      "away": "AZ",
       "kickoff": "2026-11-22T13:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 558830,
+      "id": 558836,
       "competition": "DED",
       "league": "Eredivisie",
-      "home": "Sparta Rotterdam",
-      "away": "AZ",
+      "home": "AFC Ajax",
+      "away": "ADO Den Haag",
       "kickoff": "2026-11-22T13:30:00Z",
       "status": "TIMED",
       "home_goals": null,

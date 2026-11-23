@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-23T18:44:33.626758+00:00",
+  "updated_at": "2026-11-23T19:46:28.248403+00:00",
   "matches": [
-    {
-      "id": 561948,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Norwich City FC",
-      "away": "Cardiff City FC",
-      "kickoff": "2026-11-21T12:30:00Z",
-      "status": "FINISHED",
-      "home_goals": 2,
-      "away_goals": 1
-    },
     {
       "id": 561944,
       "competition": "ELC",
@@ -43,6 +32,17 @@
       "kickoff": "2026-11-21T12:30:00Z",
       "status": "FINISHED",
       "home_goals": 1,
+      "away_goals": 1
+    },
+    {
+      "id": 561948,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Norwich City FC",
+      "away": "Cardiff City FC",
+      "kickoff": "2026-11-21T12:30:00Z",
+      "status": "FINISHED",
+      "home_goals": 2,
       "away_goals": 1
     },
     {
@@ -112,17 +112,6 @@
       "away_goals": 1
     },
     {
-      "id": 565865,
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "Eintracht Frankfurt",
-      "away": "TSG 1899 Hoffenheim",
-      "kickoff": "2026-11-21T14:30:00Z",
-      "status": "FINISHED",
-      "home_goals": 1,
-      "away_goals": 0
-    },
-    {
       "id": 565858,
       "competition": "BL1",
       "league": "Bundesliga",
@@ -132,6 +121,17 @@
       "status": "FINISHED",
       "home_goals": 1,
       "away_goals": 5
+    },
+    {
+      "id": 565865,
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "TSG 1899 Hoffenheim",
+      "kickoff": "2026-11-21T14:30:00Z",
+      "status": "FINISHED",
+      "home_goals": 1,
+      "away_goals": 0
     },
     {
       "id": 561949,
@@ -1454,17 +1454,6 @@
       "away_goals": null
     },
     {
-      "id": 560655,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Manchester United FC",
-      "away": "Brentford FC",
-      "kickoff": "2026-11-28T15:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 561974,
       "competition": "ELC",
       "league": "Championship",
@@ -1494,6 +1483,17 @@
       "away": "Sheffield United FC",
       "kickoff": "2026-11-28T15:00:00Z",
       "status": "SCHEDULED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 560655,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Manchester United FC",
+      "away": "Brentford FC",
+      "kickoff": "2026-11-28T15:00:00Z",
+      "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
@@ -1564,22 +1564,22 @@
       "away_goals": null
     },
     {
-      "id": 565870,
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "VfB Stuttgart",
-      "away": "Eintracht Frankfurt",
+      "id": 564759,
+      "competition": "PD",
+      "league": "Primera Division",
+      "home": "Elche CF",
+      "away": "Club Atlético de Madrid",
       "kickoff": "2026-11-28T17:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 564759,
-      "competition": "PD",
-      "league": "Primera Division",
-      "home": "Elche CF",
-      "away": "Club Atlético de Madrid",
+      "id": 565870,
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "Eintracht Frankfurt",
       "kickoff": "2026-11-28T17:30:00Z",
       "status": "TIMED",
       "home_goals": null,

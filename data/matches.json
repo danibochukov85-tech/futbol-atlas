@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T08:40:10.532237+00:00",
+  "updated_at": "2026-11-24T09:12:39.735217+00:00",
   "matches": [
     {
       "id": 555095,
@@ -915,6 +915,17 @@
       "away_goals": null
     },
     {
+      "id": 561967,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Millwall FC",
+      "away": "Burnley FC",
+      "kickoff": "2026-11-28T15:00:00Z",
+      "status": "SCHEDULED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 560655,
       "competition": "PL",
       "league": "Premier League",
@@ -953,17 +964,6 @@
       "league": "Championship",
       "home": "Birmingham City FC",
       "away": "Bolton Wanderers FC",
-      "kickoff": "2026-11-28T15:00:00Z",
-      "status": "SCHEDULED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 561967,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Millwall FC",
-      "away": "Burnley FC",
       "kickoff": "2026-11-28T15:00:00Z",
       "status": "SCHEDULED",
       "home_goals": null,
@@ -1036,22 +1036,22 @@
       "away_goals": null
     },
     {
-      "id": 567362,
-      "competition": "PPL",
-      "league": "Primeira Liga",
-      "home": "FC Arouca",
-      "away": "Rio Ave FC",
+      "id": 558825,
+      "competition": "DED",
+      "league": "Eredivisie",
+      "home": "SBV Excelsior",
+      "away": "Telstar 1963",
       "kickoff": "2026-11-28T15:30:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 558825,
-      "competition": "DED",
-      "league": "Eredivisie",
-      "home": "SBV Excelsior",
-      "away": "Telstar 1963",
+      "id": 567362,
+      "competition": "PPL",
+      "league": "Primeira Liga",
+      "home": "FC Arouca",
+      "away": "Rio Ave FC",
       "kickoff": "2026-11-28T15:30:00Z",
       "status": "TIMED",
       "home_goals": null,

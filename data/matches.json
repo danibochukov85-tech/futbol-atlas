@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T12:56:41.971312+00:00",
+  "updated_at": "2026-11-25T14:38:54.408895+00:00",
   "matches": [
     {
       "id": 558519,
@@ -365,6 +365,17 @@
       "away_goals": null
     },
     {
+      "id": 575410,
+      "competition": "CL",
+      "league": "UEFA Champions League",
+      "home": "Lille OSC",
+      "away": "FC Bayern München",
+      "kickoff": "2026-11-25T20:00:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 575406,
       "competition": "CL",
       "league": "UEFA Champions League",
@@ -392,17 +403,6 @@
       "league": "UEFA Champions League",
       "home": "Paris Saint-Germain FC",
       "away": "AS Roma",
-      "kickoff": "2026-11-25T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 575410,
-      "competition": "CL",
-      "league": "UEFA Champions League",
-      "home": "Lille OSC",
-      "away": "FC Bayern München",
       "kickoff": "2026-11-25T20:00:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -684,6 +684,17 @@
       "away_goals": null
     },
     {
+      "id": 561967,
+      "competition": "ELC",
+      "league": "Championship",
+      "home": "Millwall FC",
+      "away": "Burnley FC",
+      "kickoff": "2026-11-28T15:00:00Z",
+      "status": "SCHEDULED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 560652,
       "competition": "PL",
       "league": "Premier League",
@@ -722,17 +733,6 @@
       "league": "Championship",
       "home": "Derby County FC",
       "away": "Watford FC",
-      "kickoff": "2026-11-28T15:00:00Z",
-      "status": "SCHEDULED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 561967,
-      "competition": "ELC",
-      "league": "Championship",
-      "home": "Millwall FC",
-      "away": "Burnley FC",
       "kickoff": "2026-11-28T15:00:00Z",
       "status": "SCHEDULED",
       "home_goals": null,
@@ -926,17 +926,6 @@
       "away_goals": null
     },
     {
-      "id": 558819,
-      "competition": "DED",
-      "league": "Eredivisie",
-      "home": "SC Cambuur-Leeuwarden",
-      "away": "Sparta Rotterdam",
-      "kickoff": "2026-11-28T20:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 576807,
       "competition": "CLI",
       "league": "Copa Libertadores",
@@ -944,6 +933,17 @@
       "away": "Estudiantes de La Plata",
       "kickoff": "2026-11-28T20:00:00Z",
       "status": "SCHEDULED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 558819,
+      "competition": "DED",
+      "league": "Eredivisie",
+      "home": "SC Cambuur-Leeuwarden",
+      "away": "Sparta Rotterdam",
+      "kickoff": "2026-11-28T20:00:00Z",
+      "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },

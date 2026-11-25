@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T02:04:13.707733+00:00",
+  "updated_at": "2026-11-25T02:33:15.162590+00:00",
   "matches": [
     {
       "id": 558519,
@@ -453,22 +453,22 @@
       "away_goals": null
     },
     {
-      "id": 559616,
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "Stade Brestois 29",
-      "away": "Paris FC",
+      "id": 558515,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Venezia FC",
+      "away": "Bologna FC 1909",
       "kickoff": "2026-11-27T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 558515,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "Venezia FC",
-      "away": "Bologna FC 1909",
+      "id": 559616,
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Stade Brestois 29",
+      "away": "Paris FC",
       "kickoff": "2026-11-27T19:45:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -607,17 +607,6 @@
       "away_goals": null
     },
     {
-      "id": 565868,
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "SC Paderborn 07",
-      "away": "FC Schalke 04",
-      "kickoff": "2026-11-28T14:30:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 565874,
       "competition": "BL1",
       "league": "Bundesliga",
@@ -634,6 +623,17 @@
       "league": "Bundesliga",
       "home": "1. FC Köln",
       "away": "SV 07 Elversberg",
+      "kickoff": "2026-11-28T14:30:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 565868,
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "FC Schalke 04",
       "kickoff": "2026-11-28T14:30:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -695,17 +695,6 @@
       "away_goals": null
     },
     {
-      "id": 560655,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Manchester United FC",
-      "away": "Brentford FC",
-      "kickoff": "2026-11-28T15:00:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 561974,
       "competition": "ELC",
       "league": "Championship",
@@ -735,6 +724,17 @@
       "away": "Sheffield United FC",
       "kickoff": "2026-11-28T15:00:00Z",
       "status": "SCHEDULED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 560655,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Manchester United FC",
+      "away": "Brentford FC",
+      "kickoff": "2026-11-28T15:00:00Z",
+      "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
@@ -882,17 +882,6 @@
       "away_goals": null
     },
     {
-      "id": 558518,
-      "competition": "SA",
-      "league": "Serie A",
-      "home": "FC Internazionale Milano",
-      "away": "Genoa CFC",
-      "kickoff": "2026-11-28T19:45:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
       "id": 559614,
       "competition": "FL1",
       "league": "Ligue 1",
@@ -915,13 +904,13 @@
       "away_goals": null
     },
     {
-      "id": 576807,
-      "competition": "CLI",
-      "league": "Copa Libertadores",
-      "home": "SE Palmeiras",
-      "away": "Estudiantes de La Plata",
-      "kickoff": "2026-11-28T20:00:00Z",
-      "status": "SCHEDULED",
+      "id": 558518,
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "FC Internazionale Milano",
+      "away": "Genoa CFC",
+      "kickoff": "2026-11-28T19:45:00Z",
+      "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
@@ -933,6 +922,17 @@
       "away": "Sparta Rotterdam",
       "kickoff": "2026-11-28T20:00:00Z",
       "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
+      "id": 576807,
+      "competition": "CLI",
+      "league": "Copa Libertadores",
+      "home": "SE Palmeiras",
+      "away": "Estudiantes de La Plata",
+      "kickoff": "2026-11-28T20:00:00Z",
+      "status": "SCHEDULED",
       "home_goals": null,
       "away_goals": null
     },
@@ -1080,6 +1080,17 @@
       "away_goals": null
     },
     {
+      "id": 560657,
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Fulham FC",
+      "away": "AFC Bournemouth",
+      "kickoff": "2026-11-29T14:05:00Z",
+      "status": "TIMED",
+      "home_goals": null,
+      "away_goals": null
+    },
+    {
       "id": 560659,
       "competition": "PL",
       "league": "Premier League",
@@ -1096,17 +1107,6 @@
       "league": "Premier League",
       "home": "Crystal Palace FC",
       "away": "Hull City AFC",
-      "kickoff": "2026-11-29T14:05:00Z",
-      "status": "TIMED",
-      "home_goals": null,
-      "away_goals": null
-    },
-    {
-      "id": 560657,
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Fulham FC",
-      "away": "AFC Bournemouth",
       "kickoff": "2026-11-29T14:05:00Z",
       "status": "TIMED",
       "home_goals": null,
@@ -1234,22 +1234,22 @@
       "away_goals": null
     },
     {
-      "id": 558822,
-      "competition": "DED",
-      "league": "Eredivisie",
-      "home": "NEC",
-      "away": "FC Twente '65",
+      "id": 555109,
+      "competition": "BSA",
+      "league": "Campeonato Brasileiro Série A",
+      "home": "EC Vitória",
+      "away": "Santos FC",
       "kickoff": "2026-11-29T19:00:00Z",
       "status": "TIMED",
       "home_goals": null,
       "away_goals": null
     },
     {
-      "id": 555109,
-      "competition": "BSA",
-      "league": "Campeonato Brasileiro Série A",
-      "home": "EC Vitória",
-      "away": "Santos FC",
+      "id": 558822,
+      "competition": "DED",
+      "league": "Eredivisie",
+      "home": "NEC",
+      "away": "FC Twente '65",
       "kickoff": "2026-11-29T19:00:00Z",
       "status": "TIMED",
       "home_goals": null,
